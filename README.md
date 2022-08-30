@@ -1,2 +1,2 @@
-# htmlproject
-Created to practice html as a Programming Language
+# html-basic
+Just a kick off for the web development process
